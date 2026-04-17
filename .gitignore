@@ -1,0 +1,11 @@
+#Coisas do Python que não devem subir
+__pycache__/
+
+#Bloqueia arquivos .pyc, .pyo, .pyd
+*_py[cod]
+
+# Python que é Java + Python
+*$py.class
+
+# Visual Studios Code
+.vscode/
